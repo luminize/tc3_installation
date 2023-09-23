@@ -5,5 +5,3 @@ multilingual = false
 src = "src"
 title = "TwinCAT 3 installation"
 
-[preprocessor.plantuml]
-plantuml-cmd="http://localhost:8080"
