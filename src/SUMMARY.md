@@ -8,3 +8,5 @@
     - [Step 3](./step_3.md)
     - [Step 4](./step_4.md)
     - [Step 5](./step_5.md)
+    - [Step 6](./step_6.md)
+    - [Step 7, optional](./step_7.md)
