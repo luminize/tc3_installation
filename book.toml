@@ -5,3 +5,10 @@ multilingual = false
 src = "src"
 title = "TwinCAT 3 installation"
 
+[output.html]
+default-theme = "coal"
+git-repository-url = "https://github.com/luminize/tc3_installation"
+
+[output.html.fold]
+enable = true
+level = 1
