@@ -11,5 +11,5 @@ These files are provided in a shared directory `twincat3_programming` so you can
 ![TC3 programming files](./twincat3_programming_directory.png)
 
 Set up your system following these steps:
-1. install [Microsoft Visual Studio Community 2019](./MSVS_community_2019)
-2. install the [TwinCAT 3 suite](./TC3_software)
+1. install [Microsoft Visual Studio Community 2019](./MSVS_community_2019.md)
+2. install the [TwinCAT 3 suite](./TC3_software.md)
