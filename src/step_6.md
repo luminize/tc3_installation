@@ -1,4 +1,4 @@
-# Step 7, optional for Realtime usage
+# Step 6, optional for Realtime usage
 
 When you plan to use your PC/Laptop as a PLC (Beckhoff PLC's are PC's with realtime capability) you must have an Ethernet controller with a Realtime  drivers. Beckhoff only supports "a few" Intel Ethernet cards.
 
