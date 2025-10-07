@@ -13,4 +13,5 @@
 
 - [Using TC3 and the virtual PLC](./using_tc3_and_virtual_plc.md)
   - [Creating a new project](./new_tc3_project.md)
+  - [Set up GIT version control](./git_version_control.md)
   - [Connecting to the virtual PLC](./connecting_virtual_plc.md)
