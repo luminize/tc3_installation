@@ -1,3 +1,3 @@
 # Beckhoff TwinCAT 3 software
 
-Please follow these screenshots to set the correct options for integrating the TC3 system in Microsoft Visual Studio 2019.
+Please follow these screenshots to install TwinCAT XAE Shell when you start the installation via `TC31-FULL-Setup.3.1.40xx.xx.exe`.
