@@ -1,4 +1,4 @@
-# integrate into MSVC 2019
+# Do not integrate into MSVC 20xx
 ![Step 5](./step_5.png)
 
-If the option is available to you, you can decide to not install `TwinCAT XAE Shell`. `XAE Shell` has been built on MSVS 2019 so you'll have pretty much the same user experience. I feel MSVS with integration is a bit faster during startup. YMMV.
+Make sure to install `TwinCAT XAE Shell`. If you know wat you are doing you can integrate TwinCAT in a Microsoft Visual Studio installation so you'll have pretty much the same user experience.
