@@ -1,4 +1,4 @@
-# tc3_installation
+# TwinCAT 3 installation and using a virtual Tc/BSD PLC
 
 This repository holds documentation on installing Twincat 3 and programming a (virtual) PLC
 
