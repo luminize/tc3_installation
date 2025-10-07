@@ -10,3 +10,7 @@
   - [Step 6, optional](./step_6.md)
 
 - [Installing the virtual PLC](./tc3_virtual_plc.md)
+
+- [Using TC3 and the virtual PLC](./using_tc3_and_virtual_plc.md)
+  - [Creating a new project](./new_tc3_project.md)
+  - [Connecting to the virtual PLC](./connecting_virtual_plc.md)
